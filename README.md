@@ -28,7 +28,9 @@ The dataset contains **569 samples and 32 features**, representing diagnostic ch
 
 ## Dataset Source
 
-The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) Dataset obtained from the UCI Machine Learning Repository. The dataset contains features computed from digitized images of breast cell nuclei and is widely used for medical machine learning research.
+## Dataset Source
+
+This project uses a modified version of the Breast Cancer Wisconsin (Diagnostic) Dataset. The dataset was adapted and provided by the course instructor for coursework purposes in the Medical Image Classification module at the University of South Wales. The original dataset is publicly available through the UCI Machine Learning Repository.
 
 ## Methodology
 
