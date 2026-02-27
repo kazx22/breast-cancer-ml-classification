@@ -26,6 +26,10 @@ The dataset includes measurements derived from medical images such as:
 
 The dataset contains **569 samples and 32 features**, representing diagnostic characteristics of cell nuclei.
 
+## Dataset Source
+
+The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) Dataset obtained from the UCI Machine Learning Repository. The dataset contains features computed from digitized images of breast cell nuclei and is widely used for medical machine learning research.
+
 ## Methodology
 
 The project followed a complete machine learning pipeline:
