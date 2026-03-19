@@ -26,7 +26,6 @@ The dataset includes measurements derived from medical images such as:
 
 The dataset contains **569 samples and 32 features**, representing diagnostic characteristics of cell nuclei.
 
-## Dataset Source
 
 ## Dataset Source
 
